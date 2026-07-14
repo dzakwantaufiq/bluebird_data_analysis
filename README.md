@@ -39,10 +39,10 @@ Corporate accounts using **eVoucher Corporate** payment methods (making up 20.1%
 
 ## 💻 Tech Stack & Engineering Pipeline
 
-- **Data Processing & ETL**: `Pandas`, `NumPy`, `PyArrow` (Handling string alignment, converting localized `Asia/Jakarta` timestamp layers, and data restructuring) [source: 2].
-- **Data Warehousing Layer**: `Google BigQuery` (`pandas-gbq` and service account API structures utilized to run table formatting and complex window function queries) [source: 2].
-- **Exploratory Data Analysis**: `Matplotlib`, `Seaborn` [source: 2].
-- **Business Intelligence**: `Looker Studio` (For translating BigQuery matrices into real-time tracking boards) [source: 1, 2].
+- **Data Processing & ETL**: `Pandas`, `NumPy`, `PyArrow` (Handling string alignment, converting localized `Asia/Jakarta` timestamp layers, and data restructuring).
+- **Data Warehousing Layer**: `Google BigQuery` (`pandas-gbq` and service account API structures are utilized to run table formatting and complex window function queries).
+- **Exploratory Data Analysis**: `Matplotlib`, `Seaborn`.
+- **Business Intelligence**: `Looker Studio` (For translating BigQuery matrices into real-time tracking boards).
 
 ---
 
