@@ -1,0 +1,501 @@
+company_id,company_name,industry
+CORP-0001,PT. Korporat Sukses 0 Tbk,Mining
+CORP-0002,PT. Korporat Sukses 1 Tbk,Consulting
+CORP-0003,PT. Korporat Sukses 2 Tbk,Banking
+CORP-0004,PT. Korporat Sukses 3 Tbk,Banking
+CORP-0005,PT. Korporat Sukses 4 Tbk,Media
+CORP-0006,PT. Korporat Sukses 5 Tbk,Banking
+CORP-0007,PT. Korporat Sukses 6 Tbk,Mining
+CORP-0008,PT. Korporat Sukses 7 Tbk,Mining
+CORP-0009,PT. Korporat Sukses 8 Tbk,Media
+CORP-0010,PT. Korporat Sukses 9 Tbk,Banking
+CORP-0011,PT. Korporat Sukses 10 Tbk,Consulting
+CORP-0012,PT. Korporat Sukses 11 Tbk,FMCG
+CORP-0013,PT. Korporat Sukses 12 Tbk,Banking
+CORP-0014,PT. Korporat Sukses 13 Tbk,Consulting
+CORP-0015,PT. Korporat Sukses 14 Tbk,Mining
+CORP-0016,PT. Korporat Sukses 15 Tbk,Banking
+CORP-0017,PT. Korporat Sukses 16 Tbk,FMCG
+CORP-0018,PT. Korporat Sukses 17 Tbk,FMCG
+CORP-0019,PT. Korporat Sukses 18 Tbk,Consulting
+CORP-0020,PT. Korporat Sukses 19 Tbk,Tech StartUp
+CORP-0021,PT. Korporat Sukses 20 Tbk,Banking
+CORP-0022,PT. Korporat Sukses 21 Tbk,Consulting
+CORP-0023,PT. Korporat Sukses 22 Tbk,Mining
+CORP-0024,PT. Korporat Sukses 23 Tbk,Media
+CORP-0025,PT. Korporat Sukses 24 Tbk,Tech StartUp
+CORP-0026,PT. Korporat Sukses 25 Tbk,FMCG
+CORP-0027,PT. Korporat Sukses 26 Tbk,Banking
+CORP-0028,PT. Korporat Sukses 27 Tbk,Tech StartUp
+CORP-0029,PT. Korporat Sukses 28 Tbk,Consulting
+CORP-0030,PT. Korporat Sukses 29 Tbk,Consulting
+CORP-0031,PT. Korporat Sukses 30 Tbk,Media
+CORP-0032,PT. Korporat Sukses 31 Tbk,Tech StartUp
+CORP-0033,PT. Korporat Sukses 32 Tbk,FMCG
+CORP-0034,PT. Korporat Sukses 33 Tbk,FMCG
+CORP-0035,PT. Korporat Sukses 34 Tbk,Mining
+CORP-0036,PT. Korporat Sukses 35 Tbk,Mining
+CORP-0037,PT. Korporat Sukses 36 Tbk,Media
+CORP-0038,PT. Korporat Sukses 37 Tbk,Banking
+CORP-0039,PT. Korporat Sukses 38 Tbk,Mining
+CORP-0040,PT. Korporat Sukses 39 Tbk,Tech StartUp
+CORP-0041,PT. Korporat Sukses 40 Tbk,FMCG
+CORP-0042,PT. Korporat Sukses 41 Tbk,Consulting
+CORP-0043,PT. Korporat Sukses 42 Tbk,Consulting
+CORP-0044,PT. Korporat Sukses 43 Tbk,FMCG
+CORP-0045,PT. Korporat Sukses 44 Tbk,Tech StartUp
+CORP-0046,PT. Korporat Sukses 45 Tbk,Consulting
+CORP-0047,PT. Korporat Sukses 46 Tbk,Consulting
+CORP-0048,PT. Korporat Sukses 47 Tbk,Media
+CORP-0049,PT. Korporat Sukses 48 Tbk,Tech StartUp
+CORP-0050,PT. Korporat Sukses 49 Tbk,Media
+CORP-0051,PT. Korporat Sukses 50 Tbk,Consulting
+CORP-0052,PT. Korporat Sukses 51 Tbk,Banking
+CORP-0053,PT. Korporat Sukses 52 Tbk,Tech StartUp
+CORP-0054,PT. Korporat Sukses 53 Tbk,Banking
+CORP-0055,PT. Korporat Sukses 54 Tbk,FMCG
+CORP-0056,PT. Korporat Sukses 55 Tbk,Mining
+CORP-0057,PT. Korporat Sukses 56 Tbk,Banking
+CORP-0058,PT. Korporat Sukses 57 Tbk,Consulting
+CORP-0059,PT. Korporat Sukses 58 Tbk,Media
+CORP-0060,PT. Korporat Sukses 59 Tbk,Media
+CORP-0061,PT. Korporat Sukses 60 Tbk,Tech StartUp
+CORP-0062,PT. Korporat Sukses 61 Tbk,Banking
+CORP-0063,PT. Korporat Sukses 62 Tbk,Tech StartUp
+CORP-0064,PT. Korporat Sukses 63 Tbk,Banking
+CORP-0065,PT. Korporat Sukses 64 Tbk,Tech StartUp
+CORP-0066,PT. Korporat Sukses 65 Tbk,FMCG
+CORP-0067,PT. Korporat Sukses 66 Tbk,Media
+CORP-0068,PT. Korporat Sukses 67 Tbk,FMCG
+CORP-0069,PT. Korporat Sukses 68 Tbk,Tech StartUp
+CORP-0070,PT. Korporat Sukses 69 Tbk,Consulting
+CORP-0071,PT. Korporat Sukses 70 Tbk,Media
+CORP-0072,PT. Korporat Sukses 71 Tbk,Mining
+CORP-0073,PT. Korporat Sukses 72 Tbk,FMCG
+CORP-0074,PT. Korporat Sukses 73 Tbk,Tech StartUp
+CORP-0075,PT. Korporat Sukses 74 Tbk,Media
+CORP-0076,PT. Korporat Sukses 75 Tbk,Banking
+CORP-0077,PT. Korporat Sukses 76 Tbk,FMCG
+CORP-0078,PT. Korporat Sukses 77 Tbk,Media
+CORP-0079,PT. Korporat Sukses 78 Tbk,Consulting
+CORP-0080,PT. Korporat Sukses 79 Tbk,Tech StartUp
+CORP-0081,PT. Korporat Sukses 80 Tbk,Tech StartUp
+CORP-0082,PT. Korporat Sukses 81 Tbk,Media
+CORP-0083,PT. Korporat Sukses 82 Tbk,Mining
+CORP-0084,PT. Korporat Sukses 83 Tbk,FMCG
+CORP-0085,PT. Korporat Sukses 84 Tbk,Banking
+CORP-0086,PT. Korporat Sukses 85 Tbk,Mining
+CORP-0087,PT. Korporat Sukses 86 Tbk,FMCG
+CORP-0088,PT. Korporat Sukses 87 Tbk,Banking
+CORP-0089,PT. Korporat Sukses 88 Tbk,FMCG
+CORP-0090,PT. Korporat Sukses 89 Tbk,FMCG
+CORP-0091,PT. Korporat Sukses 90 Tbk,Tech StartUp
+CORP-0092,PT. Korporat Sukses 91 Tbk,FMCG
+CORP-0093,PT. Korporat Sukses 92 Tbk,Consulting
+CORP-0094,PT. Korporat Sukses 93 Tbk,Mining
+CORP-0095,PT. Korporat Sukses 94 Tbk,FMCG
+CORP-0096,PT. Korporat Sukses 95 Tbk,Media
+CORP-0097,PT. Korporat Sukses 96 Tbk,Media
+CORP-0098,PT. Korporat Sukses 97 Tbk,Banking
+CORP-0099,PT. Korporat Sukses 98 Tbk,Banking
+CORP-0100,PT. Korporat Sukses 99 Tbk,Banking
+CORP-0101,PT. Korporat Sukses 100 Tbk,FMCG
+CORP-0102,PT. Korporat Sukses 101 Tbk,Mining
+CORP-0103,PT. Korporat Sukses 102 Tbk,FMCG
+CORP-0104,PT. Korporat Sukses 103 Tbk,Banking
+CORP-0105,PT. Korporat Sukses 104 Tbk,Consulting
+CORP-0106,PT. Korporat Sukses 105 Tbk,FMCG
+CORP-0107,PT. Korporat Sukses 106 Tbk,Banking
+CORP-0108,PT. Korporat Sukses 107 Tbk,Media
+CORP-0109,PT. Korporat Sukses 108 Tbk,Consulting
+CORP-0110,PT. Korporat Sukses 109 Tbk,Banking
+CORP-0111,PT. Korporat Sukses 110 Tbk,FMCG
+CORP-0112,PT. Korporat Sukses 111 Tbk,Mining
+CORP-0113,PT. Korporat Sukses 112 Tbk,Media
+CORP-0114,PT. Korporat Sukses 113 Tbk,Media
+CORP-0115,PT. Korporat Sukses 114 Tbk,FMCG
+CORP-0116,PT. Korporat Sukses 115 Tbk,FMCG
+CORP-0117,PT. Korporat Sukses 116 Tbk,FMCG
+CORP-0118,PT. Korporat Sukses 117 Tbk,Media
+CORP-0119,PT. Korporat Sukses 118 Tbk,Media
+CORP-0120,PT. Korporat Sukses 119 Tbk,Mining
+CORP-0121,PT. Korporat Sukses 120 Tbk,Consulting
+CORP-0122,PT. Korporat Sukses 121 Tbk,Tech StartUp
+CORP-0123,PT. Korporat Sukses 122 Tbk,Mining
+CORP-0124,PT. Korporat Sukses 123 Tbk,Tech StartUp
+CORP-0125,PT. Korporat Sukses 124 Tbk,Banking
+CORP-0126,PT. Korporat Sukses 125 Tbk,FMCG
+CORP-0127,PT. Korporat Sukses 126 Tbk,Banking
+CORP-0128,PT. Korporat Sukses 127 Tbk,Consulting
+CORP-0129,PT. Korporat Sukses 128 Tbk,Tech StartUp
+CORP-0130,PT. Korporat Sukses 129 Tbk,Consulting
+CORP-0131,PT. Korporat Sukses 130 Tbk,Media
+CORP-0132,PT. Korporat Sukses 131 Tbk,FMCG
+CORP-0133,PT. Korporat Sukses 132 Tbk,Banking
+CORP-0134,PT. Korporat Sukses 133 Tbk,Mining
+CORP-0135,PT. Korporat Sukses 134 Tbk,FMCG
+CORP-0136,PT. Korporat Sukses 135 Tbk,FMCG
+CORP-0137,PT. Korporat Sukses 136 Tbk,Tech StartUp
+CORP-0138,PT. Korporat Sukses 137 Tbk,Media
+CORP-0139,PT. Korporat Sukses 138 Tbk,Tech StartUp
+CORP-0140,PT. Korporat Sukses 139 Tbk,Media
+CORP-0141,PT. Korporat Sukses 140 Tbk,Banking
+CORP-0142,PT. Korporat Sukses 141 Tbk,Consulting
+CORP-0143,PT. Korporat Sukses 142 Tbk,Consulting
+CORP-0144,PT. Korporat Sukses 143 Tbk,Tech StartUp
+CORP-0145,PT. Korporat Sukses 144 Tbk,Media
+CORP-0146,PT. Korporat Sukses 145 Tbk,Tech StartUp
+CORP-0147,PT. Korporat Sukses 146 Tbk,Banking
+CORP-0148,PT. Korporat Sukses 147 Tbk,Tech StartUp
+CORP-0149,PT. Korporat Sukses 148 Tbk,Media
+CORP-0150,PT. Korporat Sukses 149 Tbk,FMCG
+CORP-0151,PT. Korporat Sukses 150 Tbk,Banking
+CORP-0152,PT. Korporat Sukses 151 Tbk,FMCG
+CORP-0153,PT. Korporat Sukses 152 Tbk,FMCG
+CORP-0154,PT. Korporat Sukses 153 Tbk,Banking
+CORP-0155,PT. Korporat Sukses 154 Tbk,Consulting
+CORP-0156,PT. Korporat Sukses 155 Tbk,Banking
+CORP-0157,PT. Korporat Sukses 156 Tbk,Mining
+CORP-0158,PT. Korporat Sukses 157 Tbk,Mining
+CORP-0159,PT. Korporat Sukses 158 Tbk,Media
+CORP-0160,PT. Korporat Sukses 159 Tbk,FMCG
+CORP-0161,PT. Korporat Sukses 160 Tbk,Media
+CORP-0162,PT. Korporat Sukses 161 Tbk,Tech StartUp
+CORP-0163,PT. Korporat Sukses 162 Tbk,Mining
+CORP-0164,PT. Korporat Sukses 163 Tbk,Banking
+CORP-0165,PT. Korporat Sukses 164 Tbk,Banking
+CORP-0166,PT. Korporat Sukses 165 Tbk,Tech StartUp
+CORP-0167,PT. Korporat Sukses 166 Tbk,Banking
+CORP-0168,PT. Korporat Sukses 167 Tbk,Tech StartUp
+CORP-0169,PT. Korporat Sukses 168 Tbk,Consulting
+CORP-0170,PT. Korporat Sukses 169 Tbk,Tech StartUp
+CORP-0171,PT. Korporat Sukses 170 Tbk,Mining
+CORP-0172,PT. Korporat Sukses 171 Tbk,Mining
+CORP-0173,PT. Korporat Sukses 172 Tbk,Banking
+CORP-0174,PT. Korporat Sukses 173 Tbk,Consulting
+CORP-0175,PT. Korporat Sukses 174 Tbk,Consulting
+CORP-0176,PT. Korporat Sukses 175 Tbk,Mining
+CORP-0177,PT. Korporat Sukses 176 Tbk,Mining
+CORP-0178,PT. Korporat Sukses 177 Tbk,Media
+CORP-0179,PT. Korporat Sukses 178 Tbk,Banking
+CORP-0180,PT. Korporat Sukses 179 Tbk,Mining
+CORP-0181,PT. Korporat Sukses 180 Tbk,Banking
+CORP-0182,PT. Korporat Sukses 181 Tbk,Media
+CORP-0183,PT. Korporat Sukses 182 Tbk,Media
+CORP-0184,PT. Korporat Sukses 183 Tbk,Tech StartUp
+CORP-0185,PT. Korporat Sukses 184 Tbk,Media
+CORP-0186,PT. Korporat Sukses 185 Tbk,FMCG
+CORP-0187,PT. Korporat Sukses 186 Tbk,Tech StartUp
+CORP-0188,PT. Korporat Sukses 187 Tbk,Media
+CORP-0189,PT. Korporat Sukses 188 Tbk,Media
+CORP-0190,PT. Korporat Sukses 189 Tbk,Media
+CORP-0191,PT. Korporat Sukses 190 Tbk,Consulting
+CORP-0192,PT. Korporat Sukses 191 Tbk,FMCG
+CORP-0193,PT. Korporat Sukses 192 Tbk,Tech StartUp
+CORP-0194,PT. Korporat Sukses 193 Tbk,Media
+CORP-0195,PT. Korporat Sukses 194 Tbk,Consulting
+CORP-0196,PT. Korporat Sukses 195 Tbk,FMCG
+CORP-0197,PT. Korporat Sukses 196 Tbk,Mining
+CORP-0198,PT. Korporat Sukses 197 Tbk,Mining
+CORP-0199,PT. Korporat Sukses 198 Tbk,Tech StartUp
+CORP-0200,PT. Korporat Sukses 199 Tbk,Tech StartUp
+CORP-0201,PT. Korporat Sukses 200 Tbk,FMCG
+CORP-0202,PT. Korporat Sukses 201 Tbk,Consulting
+CORP-0203,PT. Korporat Sukses 202 Tbk,Mining
+CORP-0204,PT. Korporat Sukses 203 Tbk,Banking
+CORP-0205,PT. Korporat Sukses 204 Tbk,Banking
+CORP-0206,PT. Korporat Sukses 205 Tbk,Banking
+CORP-0207,PT. Korporat Sukses 206 Tbk,Consulting
+CORP-0208,PT. Korporat Sukses 207 Tbk,FMCG
+CORP-0209,PT. Korporat Sukses 208 Tbk,Mining
+CORP-0210,PT. Korporat Sukses 209 Tbk,Banking
+CORP-0211,PT. Korporat Sukses 210 Tbk,Mining
+CORP-0212,PT. Korporat Sukses 211 Tbk,Tech StartUp
+CORP-0213,PT. Korporat Sukses 212 Tbk,Consulting
+CORP-0214,PT. Korporat Sukses 213 Tbk,Tech StartUp
+CORP-0215,PT. Korporat Sukses 214 Tbk,Consulting
+CORP-0216,PT. Korporat Sukses 215 Tbk,Mining
+CORP-0217,PT. Korporat Sukses 216 Tbk,Banking
+CORP-0218,PT. Korporat Sukses 217 Tbk,Consulting
+CORP-0219,PT. Korporat Sukses 218 Tbk,Mining
+CORP-0220,PT. Korporat Sukses 219 Tbk,Banking
+CORP-0221,PT. Korporat Sukses 220 Tbk,Consulting
+CORP-0222,PT. Korporat Sukses 221 Tbk,Banking
+CORP-0223,PT. Korporat Sukses 222 Tbk,Media
+CORP-0224,PT. Korporat Sukses 223 Tbk,Media
+CORP-0225,PT. Korporat Sukses 224 Tbk,Consulting
+CORP-0226,PT. Korporat Sukses 225 Tbk,Consulting
+CORP-0227,PT. Korporat Sukses 226 Tbk,Consulting
+CORP-0228,PT. Korporat Sukses 227 Tbk,Consulting
+CORP-0229,PT. Korporat Sukses 228 Tbk,Media
+CORP-0230,PT. Korporat Sukses 229 Tbk,Banking
+CORP-0231,PT. Korporat Sukses 230 Tbk,FMCG
+CORP-0232,PT. Korporat Sukses 231 Tbk,Media
+CORP-0233,PT. Korporat Sukses 232 Tbk,Mining
+CORP-0234,PT. Korporat Sukses 233 Tbk,Media
+CORP-0235,PT. Korporat Sukses 234 Tbk,Banking
+CORP-0236,PT. Korporat Sukses 235 Tbk,Tech StartUp
+CORP-0237,PT. Korporat Sukses 236 Tbk,Media
+CORP-0238,PT. Korporat Sukses 237 Tbk,Media
+CORP-0239,PT. Korporat Sukses 238 Tbk,Tech StartUp
+CORP-0240,PT. Korporat Sukses 239 Tbk,Mining
+CORP-0241,PT. Korporat Sukses 240 Tbk,FMCG
+CORP-0242,PT. Korporat Sukses 241 Tbk,Mining
+CORP-0243,PT. Korporat Sukses 242 Tbk,FMCG
+CORP-0244,PT. Korporat Sukses 243 Tbk,Consulting
+CORP-0245,PT. Korporat Sukses 244 Tbk,Tech StartUp
+CORP-0246,PT. Korporat Sukses 245 Tbk,Tech StartUp
+CORP-0247,PT. Korporat Sukses 246 Tbk,Mining
+CORP-0248,PT. Korporat Sukses 247 Tbk,Tech StartUp
+CORP-0249,PT. Korporat Sukses 248 Tbk,Mining
+CORP-0250,PT. Korporat Sukses 249 Tbk,Media
+CORP-0251,PT. Korporat Sukses 250 Tbk,Consulting
+CORP-0252,PT. Korporat Sukses 251 Tbk,Banking
+CORP-0253,PT. Korporat Sukses 252 Tbk,Banking
+CORP-0254,PT. Korporat Sukses 253 Tbk,Mining
+CORP-0255,PT. Korporat Sukses 254 Tbk,Banking
+CORP-0256,PT. Korporat Sukses 255 Tbk,Banking
+CORP-0257,PT. Korporat Sukses 256 Tbk,Mining
+CORP-0258,PT. Korporat Sukses 257 Tbk,FMCG
+CORP-0259,PT. Korporat Sukses 258 Tbk,Mining
+CORP-0260,PT. Korporat Sukses 259 Tbk,Banking
+CORP-0261,PT. Korporat Sukses 260 Tbk,Media
+CORP-0262,PT. Korporat Sukses 261 Tbk,Banking
+CORP-0263,PT. Korporat Sukses 262 Tbk,FMCG
+CORP-0264,PT. Korporat Sukses 263 Tbk,Media
+CORP-0265,PT. Korporat Sukses 264 Tbk,FMCG
+CORP-0266,PT. Korporat Sukses 265 Tbk,Tech StartUp
+CORP-0267,PT. Korporat Sukses 266 Tbk,Consulting
+CORP-0268,PT. Korporat Sukses 267 Tbk,Mining
+CORP-0269,PT. Korporat Sukses 268 Tbk,Media
+CORP-0270,PT. Korporat Sukses 269 Tbk,Media
+CORP-0271,PT. Korporat Sukses 270 Tbk,Consulting
+CORP-0272,PT. Korporat Sukses 271 Tbk,Consulting
+CORP-0273,PT. Korporat Sukses 272 Tbk,Consulting
+CORP-0274,PT. Korporat Sukses 273 Tbk,Banking
+CORP-0275,PT. Korporat Sukses 274 Tbk,Media
+CORP-0276,PT. Korporat Sukses 275 Tbk,Consulting
+CORP-0277,PT. Korporat Sukses 276 Tbk,Mining
+CORP-0278,PT. Korporat Sukses 277 Tbk,Media
+CORP-0279,PT. Korporat Sukses 278 Tbk,FMCG
+CORP-0280,PT. Korporat Sukses 279 Tbk,Mining
+CORP-0281,PT. Korporat Sukses 280 Tbk,Mining
+CORP-0282,PT. Korporat Sukses 281 Tbk,Media
+CORP-0283,PT. Korporat Sukses 282 Tbk,Media
+CORP-0284,PT. Korporat Sukses 283 Tbk,Banking
+CORP-0285,PT. Korporat Sukses 284 Tbk,FMCG
+CORP-0286,PT. Korporat Sukses 285 Tbk,Consulting
+CORP-0287,PT. Korporat Sukses 286 Tbk,Mining
+CORP-0288,PT. Korporat Sukses 287 Tbk,Media
+CORP-0289,PT. Korporat Sukses 288 Tbk,Tech StartUp
+CORP-0290,PT. Korporat Sukses 289 Tbk,Consulting
+CORP-0291,PT. Korporat Sukses 290 Tbk,FMCG
+CORP-0292,PT. Korporat Sukses 291 Tbk,Tech StartUp
+CORP-0293,PT. Korporat Sukses 292 Tbk,Tech StartUp
+CORP-0294,PT. Korporat Sukses 293 Tbk,Banking
+CORP-0295,PT. Korporat Sukses 294 Tbk,Consulting
+CORP-0296,PT. Korporat Sukses 295 Tbk,Media
+CORP-0297,PT. Korporat Sukses 296 Tbk,Mining
+CORP-0298,PT. Korporat Sukses 297 Tbk,Consulting
+CORP-0299,PT. Korporat Sukses 298 Tbk,Mining
+CORP-0300,PT. Korporat Sukses 299 Tbk,Mining
+CORP-0301,PT. Korporat Sukses 300 Tbk,Consulting
+CORP-0302,PT. Korporat Sukses 301 Tbk,Mining
+CORP-0303,PT. Korporat Sukses 302 Tbk,Tech StartUp
+CORP-0304,PT. Korporat Sukses 303 Tbk,Tech StartUp
+CORP-0305,PT. Korporat Sukses 304 Tbk,Tech StartUp
+CORP-0306,PT. Korporat Sukses 305 Tbk,Tech StartUp
+CORP-0307,PT. Korporat Sukses 306 Tbk,Banking
+CORP-0308,PT. Korporat Sukses 307 Tbk,Media
+CORP-0309,PT. Korporat Sukses 308 Tbk,Mining
+CORP-0310,PT. Korporat Sukses 309 Tbk,Consulting
+CORP-0311,PT. Korporat Sukses 310 Tbk,Mining
+CORP-0312,PT. Korporat Sukses 311 Tbk,Consulting
+CORP-0313,PT. Korporat Sukses 312 Tbk,Media
+CORP-0314,PT. Korporat Sukses 313 Tbk,Tech StartUp
+CORP-0315,PT. Korporat Sukses 314 Tbk,Media
+CORP-0316,PT. Korporat Sukses 315 Tbk,FMCG
+CORP-0317,PT. Korporat Sukses 316 Tbk,Consulting
+CORP-0318,PT. Korporat Sukses 317 Tbk,Banking
+CORP-0319,PT. Korporat Sukses 318 Tbk,Consulting
+CORP-0320,PT. Korporat Sukses 319 Tbk,Tech StartUp
+CORP-0321,PT. Korporat Sukses 320 Tbk,Media
+CORP-0322,PT. Korporat Sukses 321 Tbk,Banking
+CORP-0323,PT. Korporat Sukses 322 Tbk,Banking
+CORP-0324,PT. Korporat Sukses 323 Tbk,Consulting
+CORP-0325,PT. Korporat Sukses 324 Tbk,Mining
+CORP-0326,PT. Korporat Sukses 325 Tbk,Tech StartUp
+CORP-0327,PT. Korporat Sukses 326 Tbk,Banking
+CORP-0328,PT. Korporat Sukses 327 Tbk,Media
+CORP-0329,PT. Korporat Sukses 328 Tbk,Consulting
+CORP-0330,PT. Korporat Sukses 329 Tbk,Tech StartUp
+CORP-0331,PT. Korporat Sukses 330 Tbk,Media
+CORP-0332,PT. Korporat Sukses 331 Tbk,Mining
+CORP-0333,PT. Korporat Sukses 332 Tbk,Consulting
+CORP-0334,PT. Korporat Sukses 333 Tbk,Banking
+CORP-0335,PT. Korporat Sukses 334 Tbk,Tech StartUp
+CORP-0336,PT. Korporat Sukses 335 Tbk,Tech StartUp
+CORP-0337,PT. Korporat Sukses 336 Tbk,Mining
+CORP-0338,PT. Korporat Sukses 337 Tbk,Media
+CORP-0339,PT. Korporat Sukses 338 Tbk,Consulting
+CORP-0340,PT. Korporat Sukses 339 Tbk,Banking
+CORP-0341,PT. Korporat Sukses 340 Tbk,Mining
+CORP-0342,PT. Korporat Sukses 341 Tbk,Mining
+CORP-0343,PT. Korporat Sukses 342 Tbk,FMCG
+CORP-0344,PT. Korporat Sukses 343 Tbk,Tech StartUp
+CORP-0345,PT. Korporat Sukses 344 Tbk,Consulting
+CORP-0346,PT. Korporat Sukses 345 Tbk,Mining
+CORP-0347,PT. Korporat Sukses 346 Tbk,Tech StartUp
+CORP-0348,PT. Korporat Sukses 347 Tbk,FMCG
+CORP-0349,PT. Korporat Sukses 348 Tbk,Tech StartUp
+CORP-0350,PT. Korporat Sukses 349 Tbk,Banking
+CORP-0351,PT. Korporat Sukses 350 Tbk,Media
+CORP-0352,PT. Korporat Sukses 351 Tbk,Consulting
+CORP-0353,PT. Korporat Sukses 352 Tbk,Consulting
+CORP-0354,PT. Korporat Sukses 353 Tbk,Media
+CORP-0355,PT. Korporat Sukses 354 Tbk,Mining
+CORP-0356,PT. Korporat Sukses 355 Tbk,Consulting
+CORP-0357,PT. Korporat Sukses 356 Tbk,Tech StartUp
+CORP-0358,PT. Korporat Sukses 357 Tbk,Mining
+CORP-0359,PT. Korporat Sukses 358 Tbk,Banking
+CORP-0360,PT. Korporat Sukses 359 Tbk,Consulting
+CORP-0361,PT. Korporat Sukses 360 Tbk,Media
+CORP-0362,PT. Korporat Sukses 361 Tbk,Tech StartUp
+CORP-0363,PT. Korporat Sukses 362 Tbk,FMCG
+CORP-0364,PT. Korporat Sukses 363 Tbk,Banking
+CORP-0365,PT. Korporat Sukses 364 Tbk,Consulting
+CORP-0366,PT. Korporat Sukses 365 Tbk,FMCG
+CORP-0367,PT. Korporat Sukses 366 Tbk,Consulting
+CORP-0368,PT. Korporat Sukses 367 Tbk,Media
+CORP-0369,PT. Korporat Sukses 368 Tbk,Banking
+CORP-0370,PT. Korporat Sukses 369 Tbk,Media
+CORP-0371,PT. Korporat Sukses 370 Tbk,Media
+CORP-0372,PT. Korporat Sukses 371 Tbk,Tech StartUp
+CORP-0373,PT. Korporat Sukses 372 Tbk,Mining
+CORP-0374,PT. Korporat Sukses 373 Tbk,Consulting
+CORP-0375,PT. Korporat Sukses 374 Tbk,FMCG
+CORP-0376,PT. Korporat Sukses 375 Tbk,Media
+CORP-0377,PT. Korporat Sukses 376 Tbk,FMCG
+CORP-0378,PT. Korporat Sukses 377 Tbk,Consulting
+CORP-0379,PT. Korporat Sukses 378 Tbk,FMCG
+CORP-0380,PT. Korporat Sukses 379 Tbk,Mining
+CORP-0381,PT. Korporat Sukses 380 Tbk,FMCG
+CORP-0382,PT. Korporat Sukses 381 Tbk,FMCG
+CORP-0383,PT. Korporat Sukses 382 Tbk,FMCG
+CORP-0384,PT. Korporat Sukses 383 Tbk,Banking
+CORP-0385,PT. Korporat Sukses 384 Tbk,Banking
+CORP-0386,PT. Korporat Sukses 385 Tbk,Mining
+CORP-0387,PT. Korporat Sukses 386 Tbk,Consulting
+CORP-0388,PT. Korporat Sukses 387 Tbk,Tech StartUp
+CORP-0389,PT. Korporat Sukses 388 Tbk,Media
+CORP-0390,PT. Korporat Sukses 389 Tbk,FMCG
+CORP-0391,PT. Korporat Sukses 390 Tbk,Tech StartUp
+CORP-0392,PT. Korporat Sukses 391 Tbk,Mining
+CORP-0393,PT. Korporat Sukses 392 Tbk,Consulting
+CORP-0394,PT. Korporat Sukses 393 Tbk,Mining
+CORP-0395,PT. Korporat Sukses 394 Tbk,Consulting
+CORP-0396,PT. Korporat Sukses 395 Tbk,Banking
+CORP-0397,PT. Korporat Sukses 396 Tbk,Mining
+CORP-0398,PT. Korporat Sukses 397 Tbk,Mining
+CORP-0399,PT. Korporat Sukses 398 Tbk,Tech StartUp
+CORP-0400,PT. Korporat Sukses 399 Tbk,Media
+CORP-0401,PT. Korporat Sukses 400 Tbk,Tech StartUp
+CORP-0402,PT. Korporat Sukses 401 Tbk,Consulting
+CORP-0403,PT. Korporat Sukses 402 Tbk,Consulting
+CORP-0404,PT. Korporat Sukses 403 Tbk,Consulting
+CORP-0405,PT. Korporat Sukses 404 Tbk,Consulting
+CORP-0406,PT. Korporat Sukses 405 Tbk,Banking
+CORP-0407,PT. Korporat Sukses 406 Tbk,Mining
+CORP-0408,PT. Korporat Sukses 407 Tbk,Media
+CORP-0409,PT. Korporat Sukses 408 Tbk,Media
+CORP-0410,PT. Korporat Sukses 409 Tbk,Banking
+CORP-0411,PT. Korporat Sukses 410 Tbk,Banking
+CORP-0412,PT. Korporat Sukses 411 Tbk,Consulting
+CORP-0413,PT. Korporat Sukses 412 Tbk,Media
+CORP-0414,PT. Korporat Sukses 413 Tbk,FMCG
+CORP-0415,PT. Korporat Sukses 414 Tbk,Mining
+CORP-0416,PT. Korporat Sukses 415 Tbk,FMCG
+CORP-0417,PT. Korporat Sukses 416 Tbk,Banking
+CORP-0418,PT. Korporat Sukses 417 Tbk,Consulting
+CORP-0419,PT. Korporat Sukses 418 Tbk,Banking
+CORP-0420,PT. Korporat Sukses 419 Tbk,Tech StartUp
+CORP-0421,PT. Korporat Sukses 420 Tbk,Media
+CORP-0422,PT. Korporat Sukses 421 Tbk,Consulting
+CORP-0423,PT. Korporat Sukses 422 Tbk,Tech StartUp
+CORP-0424,PT. Korporat Sukses 423 Tbk,Mining
+CORP-0425,PT. Korporat Sukses 424 Tbk,Consulting
+CORP-0426,PT. Korporat Sukses 425 Tbk,Banking
+CORP-0427,PT. Korporat Sukses 426 Tbk,Mining
+CORP-0428,PT. Korporat Sukses 427 Tbk,Banking
+CORP-0429,PT. Korporat Sukses 428 Tbk,Tech StartUp
+CORP-0430,PT. Korporat Sukses 429 Tbk,Media
+CORP-0431,PT. Korporat Sukses 430 Tbk,Consulting
+CORP-0432,PT. Korporat Sukses 431 Tbk,Banking
+CORP-0433,PT. Korporat Sukses 432 Tbk,Mining
+CORP-0434,PT. Korporat Sukses 433 Tbk,FMCG
+CORP-0435,PT. Korporat Sukses 434 Tbk,Banking
+CORP-0436,PT. Korporat Sukses 435 Tbk,Mining
+CORP-0437,PT. Korporat Sukses 436 Tbk,FMCG
+CORP-0438,PT. Korporat Sukses 437 Tbk,FMCG
+CORP-0439,PT. Korporat Sukses 438 Tbk,Mining
+CORP-0440,PT. Korporat Sukses 439 Tbk,Tech StartUp
+CORP-0441,PT. Korporat Sukses 440 Tbk,Tech StartUp
+CORP-0442,PT. Korporat Sukses 441 Tbk,FMCG
+CORP-0443,PT. Korporat Sukses 442 Tbk,FMCG
+CORP-0444,PT. Korporat Sukses 443 Tbk,Tech StartUp
+CORP-0445,PT. Korporat Sukses 444 Tbk,Mining
+CORP-0446,PT. Korporat Sukses 445 Tbk,Tech StartUp
+CORP-0447,PT. Korporat Sukses 446 Tbk,Consulting
+CORP-0448,PT. Korporat Sukses 447 Tbk,Tech StartUp
+CORP-0449,PT. Korporat Sukses 448 Tbk,FMCG
+CORP-0450,PT. Korporat Sukses 449 Tbk,FMCG
+CORP-0451,PT. Korporat Sukses 450 Tbk,Mining
+CORP-0452,PT. Korporat Sukses 451 Tbk,Media
+CORP-0453,PT. Korporat Sukses 452 Tbk,Tech StartUp
+CORP-0454,PT. Korporat Sukses 453 Tbk,FMCG
+CORP-0455,PT. Korporat Sukses 454 Tbk,Media
+CORP-0456,PT. Korporat Sukses 455 Tbk,Banking
+CORP-0457,PT. Korporat Sukses 456 Tbk,Tech StartUp
+CORP-0458,PT. Korporat Sukses 457 Tbk,Media
+CORP-0459,PT. Korporat Sukses 458 Tbk,Tech StartUp
+CORP-0460,PT. Korporat Sukses 459 Tbk,FMCG
+CORP-0461,PT. Korporat Sukses 460 Tbk,FMCG
+CORP-0462,PT. Korporat Sukses 461 Tbk,Media
+CORP-0463,PT. Korporat Sukses 462 Tbk,FMCG
+CORP-0464,PT. Korporat Sukses 463 Tbk,Mining
+CORP-0465,PT. Korporat Sukses 464 Tbk,Mining
+CORP-0466,PT. Korporat Sukses 465 Tbk,FMCG
+CORP-0467,PT. Korporat Sukses 466 Tbk,FMCG
+CORP-0468,PT. Korporat Sukses 467 Tbk,FMCG
+CORP-0469,PT. Korporat Sukses 468 Tbk,Media
+CORP-0470,PT. Korporat Sukses 469 Tbk,Consulting
+CORP-0471,PT. Korporat Sukses 470 Tbk,FMCG
+CORP-0472,PT. Korporat Sukses 471 Tbk,Consulting
+CORP-0473,PT. Korporat Sukses 472 Tbk,Banking
+CORP-0474,PT. Korporat Sukses 473 Tbk,Mining
+CORP-0475,PT. Korporat Sukses 474 Tbk,Tech StartUp
+CORP-0476,PT. Korporat Sukses 475 Tbk,FMCG
+CORP-0477,PT. Korporat Sukses 476 Tbk,Consulting
+CORP-0478,PT. Korporat Sukses 477 Tbk,Mining
+CORP-0479,PT. Korporat Sukses 478 Tbk,Consulting
+CORP-0480,PT. Korporat Sukses 479 Tbk,Consulting
+CORP-0481,PT. Korporat Sukses 480 Tbk,Consulting
+CORP-0482,PT. Korporat Sukses 481 Tbk,Mining
+CORP-0483,PT. Korporat Sukses 482 Tbk,Banking
+CORP-0484,PT. Korporat Sukses 483 Tbk,Banking
+CORP-0485,PT. Korporat Sukses 484 Tbk,Tech StartUp
+CORP-0486,PT. Korporat Sukses 485 Tbk,Mining
+CORP-0487,PT. Korporat Sukses 486 Tbk,Consulting
+CORP-0488,PT. Korporat Sukses 487 Tbk,Tech StartUp
+CORP-0489,PT. Korporat Sukses 488 Tbk,Mining
+CORP-0490,PT. Korporat Sukses 489 Tbk,FMCG
+CORP-0491,PT. Korporat Sukses 490 Tbk,Tech StartUp
+CORP-0492,PT. Korporat Sukses 491 Tbk,Mining
+CORP-0493,PT. Korporat Sukses 492 Tbk,Mining
+CORP-0494,PT. Korporat Sukses 493 Tbk,Tech StartUp
+CORP-0495,PT. Korporat Sukses 494 Tbk,FMCG
+CORP-0496,PT. Korporat Sukses 495 Tbk,Media
+CORP-0497,PT. Korporat Sukses 496 Tbk,Consulting
+CORP-0498,PT. Korporat Sukses 497 Tbk,Media
+CORP-0499,PT. Korporat Sukses 498 Tbk,Media
+CORP-0500,PT. Korporat Sukses 499 Tbk,Banking
