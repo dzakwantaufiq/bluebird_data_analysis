@@ -57,7 +57,7 @@ bluebird-data-analysis/
 │   └── bb_trips.parquet         # 300,000 binary trip records
 │
 ├── notebooks/
-│   └── bluebird_capstone.ipynb  # Primary ETL and BigQuery injection notebook
+│   └── bluebird_analysis.ipynb  # Primary ETL, SQL analysis, and BigQuery injection notebook
 │
 ├── README.md                    # Project documentation
 └── requirements.txt             # Environment dependencies
